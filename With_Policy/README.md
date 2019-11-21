@@ -1,0 +1,1 @@
+Along with logging the timing information, I used [Weights and Biases](wandb.com) to keep track of other important things link CPU usage, Memory usage and so on. The information can be found here: https://app.wandb.ai/sayakpaul/mixed-precision-tf-keras
