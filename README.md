@@ -17,4 +17,8 @@ Here's a mini comparison (model used: **ResNet50**):
 |---------------------|:--------------------:|------------------------:|
 | [Ship identification](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning) |      **144.69 secs**     |       329.95 secs       |
 
-Find the summary of the experiments [here](https://app.wandb.ai/sayakpaul/mixed-precision-tf-keras). 
+Find the summary of the experiments [here](https://app.wandb.ai/sayakpaul/mixed-precision-tf-keras). You will be able to find information on CPU usage, memory footprint etc. on experiment basis. 
+
+### Acknowledgements:
+- I used the dataset as given in [this Hackathon](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning). The dataset comes in a different form but I adjusted it accordingly to aid my experiments. 
+- **Timothy Liu** of NVIDIA. He linked me to a wonderful resource: https://github.com/NVAITC/pycon-sg19-tensorflow-tutorial. 
